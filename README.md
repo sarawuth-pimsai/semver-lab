@@ -1,3 +1,3 @@
 # semver-lab
 
-Sem V1
+Sem V2
